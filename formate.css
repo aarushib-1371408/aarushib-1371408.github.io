@@ -1,0 +1,32 @@
+#Header{
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        border:solid 8px black;
+        text-align:center;
+        font-size: 150px;
+        font-family: "passion One";
+        color: sandybrown;
+        background-color:palegoldenrod;
+        border-radius: 25px;
+        height: 500px;
+}
+
+h2{
+    border: dotted 1px black;
+    font-family: "Times New Roman";
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+fieldset{
+        background-color: sandybrown;
+}
+
+body{
+    background-image: url(milkshakes_background.jpg);
+}
